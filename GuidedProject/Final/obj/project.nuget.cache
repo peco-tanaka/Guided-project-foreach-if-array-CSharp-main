@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wHwa1iEUJek=",
+  "dgSpecHash": "HwHLTJVabKE=",
   "success": true,
   "projectFilePath": "/Users/tanakayuuichirou/Documents/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/Final.csproj",
-  "expectedPackageFiles": [
-    "/Users/tanakayuuichirou/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
-    "/Users/tanakayuuichirou/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
-    "/Users/tanakayuuichirou/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.17/microsoft.netcore.app.host.osx-arm64.8.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
